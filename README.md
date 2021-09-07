@@ -1,0 +1,2 @@
+# Parrot-OS
+How to install Parrot OS This is a guide that will help you install Parrot OS (latest version) on your computer step-by-step through the default and official installer: Calamares.  This guide applies to both the Security and Home Editions.  Any problems or missing details, please report it to the official Parrot forum.  Insert your installation media into your computer and through your BIOS settings start Parrot. A screen will appear with several options, including some more advanced ones.
